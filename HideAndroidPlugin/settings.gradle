@@ -1,0 +1,3 @@
+include ':HideAndroidModule'
+include ':app'
+rootProject.name = "HideAndroidPlugin"
