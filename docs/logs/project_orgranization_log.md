@@ -1,6 +1,4 @@
-﻿- [ ] When finished, invert the logs for easy reading
-
-**[2021-10-12]**
+﻿**[2021-10-12]**
 # The Beginning 👀
 
 I don't really know what I'm doing, but I want to make this project structured
