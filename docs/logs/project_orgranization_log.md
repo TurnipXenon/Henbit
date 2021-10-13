@@ -1,8 +1,8 @@
 ﻿- [ ] When finished, invert the logs for easy reading
 
-# The Beginning 👀
+**[2021-10-12 | Start]**
 
-**[2021-10-12]**
+# The Beginning 👀
 
 I don't really know what I'm doing, but I want to make this project structured
 and transparent. So, I'm writing this log of my current thoughts as I go, and
@@ -19,3 +19,5 @@ the date here to see how many days I'll be waiting to get in. **[2021-10-12]**
 So, where am I at? I'm currently making pull request templates. I now have the
 pull request template, I just have to document how to use the extra templates
 for myself in the future if we ever need it.
+
+**[2021-10-12 | End]**
