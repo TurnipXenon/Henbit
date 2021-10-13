@@ -1,7 +1,7 @@
 Enter your brief description for the pull request
 
 ## What's this change for?
-This closes / fixes / resolves **ISSUE_TITLE #ISSUE_NUMBER**.
+This closes / fixes / resolves #ISSUE_NUMBER ISSUE_TITLE .
 
 Add more info below.
 
