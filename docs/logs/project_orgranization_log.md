@@ -1,4 +1,10 @@
-﻿**[2021-10-12]**
+﻿# Project organization
+Put all logs related to how we set up our project structure and Github project here. Planning is laying out 
+what to do. Scheduling is estimating effort and deadlines for tasks made in planning.
+
+<!-- todo(turnipxenon): Break apart to planning, scheduling and project organization -->
+
+**[2021-10-12]**
 # The Beginning: Planning 👀
 
 I don't really know what I'm doing, but I want to make this project structured
@@ -57,3 +63,18 @@ I got into beta around the 14th, but... I can't migrate my projects to beta,
 so I have to do it all manually. My current plan today is to migrate from our repository,
 to our personal project board. Then, we can continue our investigatory work and
 writing for our current project.
+
+**[2021-10-18]**
+Just finished migrating to Projects Beta and it feels laggy. I really like the more condensed table view,
+but I also like kanban boards which will be helpful for other uses. If only they had organization-wide
+milestones instead of having them restricted to a repository...
+
+Not all the keyboards and actions are up yet. Some are hidden in the documentation. I guess it really is
+beta 🤣. So, note to self: # to make new item in the kanban board.
+
+Update! They have a yet-to-be-documented feature called [iterations](https://github.blog/changelog/2021-10-14-the-new-github-issues-10-14-update/)
+which is basically just sprints! That's what I need. Now, I can instead repurpose Github milestones
+as a way to... well break up milestones! This is cool! These changes a lot of things.
+I can use milestones to be what used to be projects. They would encapsulate versions or chunks of the product
+that I want. Projects can now host all of my milestones with the very useful views. Okay, I think I got
+in Github Projects in a very nice time.

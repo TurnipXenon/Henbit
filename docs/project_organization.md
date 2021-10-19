@@ -18,10 +18,10 @@ the pull request template that you made.
 # Issues
 todo(turnipxenon)
 
-# Projects
+# Milestones
 todo(turnipxenon)
 
-# Milestones
+# Cycles
 todo(turnipxenon)
 
 # Features
@@ -29,6 +29,8 @@ Features are changes that may be more big than a single, reasonable pull request
 Think of them like Epics. Although, features may also be small changes that are
 extremely critical that it changes a lot of things that we may need to write a
 specification for it.
+
+todo(turnipxenon): explain what epics are
 
 A feature has:
 - todo(turnipxenon)
