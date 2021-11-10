@@ -63,3 +63,6 @@ crashlytics-build.properties
 # Rider generated
 .idea/
 Assets/Plugins/Editor/JetBrains/*
+
+# Repo-specific
+notes/
